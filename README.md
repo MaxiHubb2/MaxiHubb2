@@ -10,12 +10,15 @@
 - **Bases de Datos:** SQL Server, MySQL, PostgreSQL  
 - **Metodologías:** MVC, Scrum  
 
+
 ## 🌟 Proyectos Destacados  
 - 🎮 [Tateti en tiempo real con .NET y SignalR](https://github.com/MaxiHubb2/tateti-signalr)  
 - 📚 [Sistema de Inscripción a Materias](https://github.com/MaxiHubb2/MiCa-web)  
 
+![Coding Animation](https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg)
+
 ## 📊 Estadísticas  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MaxiHubb2&show_icons=true&theme=radical)  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MaxiHubb2&show_icons=true&theme=radical&since=2024)
 
 📫 **Contacto:**  
 - [LinkedIn](https://www.linkedin.com/in/maximiliano-rabenko)  
