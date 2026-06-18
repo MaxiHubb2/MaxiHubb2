@@ -8,9 +8,9 @@
 
 ## 🛠 Tecnologías que uso
 
-- **Backend:** Java (Spring Boot), Node.js (Express)
+- **Backend:** C# .NET, Java (Spring Boot), Node.js (Express)
 - **Frontend:** HTML, CSS, JavaScript (aprendiendo React / Next.js)
-- **Bases de Datos:** MySQL, MongoDB, PostgreSQL
+- **Bases de Datos:** SQL, MySQL
 - **Testing:** JUnit, Mockito
 - **Otros:** REST APIs, Git, Postman, MVC
 
